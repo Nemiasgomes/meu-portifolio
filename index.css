@@ -1,0 +1,77 @@
+
+
+/* SEÇÃO ALINHAMENTO DOS BOTÕES */
+.espaco {
+    width: 550px;
+    color: rgb(2, 145, 145);
+    margin-left: 30%;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+
+
+/* SEÇÃO DESING DE FUNDO */
+body {
+    background-image: url(fundo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    color: antiquewhite;
+}
+
+
+/* SEÇÃO BOTÃO DE NAVEGAÇÃO */
+.botao1,
+.botao2,
+.botao3,
+.botao4 {
+    background-color: black;
+}
+
+
+/* PARAGRAFOS DA SEÇÃO HOBBIES */
+p{
+    margin: 20px;
+    width: 300px;
+    font-style: italic;
+}
+
+
+/* SEÇÃO HOBBIES */
+.hobbies {
+    margin-left: 30%;
+    margin-top: 35px;
+    text-align: justify;
+    font-family: monospace;
+}
+
+
+
+/* SEÇÃO APRESENTAÇÃO  */
+.perfil{
+    width: 220px;
+    height: 210px;
+    float: right;
+    margin-right: 35%;
+    border-radius: 50%;
+    border: 2px solid rgb(2, 145, 145);
+}
+
+
+
+/* SEÇÃO APRESENTAÇÃO  */
+.ola {
+    text-align: justify;
+    margin-top: 15%;
+}
+
+
+/* SEÇÃO  APRESENTAÇÃO */
+.nome {
+    color: rgb(2, 145, 145);
+}
+
+
+

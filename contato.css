@@ -1,0 +1,100 @@
+
+
+
+
+     /* SEÇÃO DESING DE FUNDO */
+body{
+            background-image: url(login1.png);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center center;
+            font-family:Arial, Helvetica, sans-serif;
+            }
+
+/* LOGIN */
+.login{
+    text-align: center;
+    background-color:rgba(20, 10, 32,0.9);
+    position: absolute;
+    top: 70%;
+    left: 50%;
+
+    transform: translate(-62%,-53%);
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+    height: 80%;
+    padding-bottom: 70px;
+    width: px;
+    height: 85%;
+
+
+
+}
+
+
+input{
+
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    font-size: 15px;
+
+}
+
+
+
+.enviar{
+    background-color: dodgerblue;
+ border: none;
+ padding: 15px;
+ width:70%;
+ border-radius: 10px;
+ color: white;
+ font-size: 15px;
+ 
+}
+
+
+.enviar:hover{
+    background-color: aqua;
+    cursor: pointer;
+
+}
+
+
+p{
+    font-size: 13px;
+}
+
+
+textarea{
+    border-radius: 15px;
+    border: none;
+    outline: none;
+}
+
+
+#meuInput{
+    text-align:center;
+}
+
+.espaco{
+    width:450px;
+     color: rgb(2, 145, 145);
+     margin-left: 30%;
+     margin-top: 30px;
+     text-align: justify;
+}
+
+
+
+.botao1,.botao2,.botao3,.botao4{
+ background-color: black;
+ margin-top: 20px;
+ 
+}
+
+

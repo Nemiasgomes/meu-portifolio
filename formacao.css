@@ -1,0 +1,65 @@
+
+/* SEÇÃO DESING DE FUNDO */
+     body{
+            background-image: url(fundo2.png);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center center;
+            font-family:monospace;
+            }
+
+
+
+            /* LISTAS */
+.edit{
+    font-size: 150%;
+    color: #87CEFA;
+    
+}
+
+
+/* TITULO */
+h1{
+    font-size:450%;
+    color:#FFD700;
+    text-align: center;
+    margin-top: 10%
+}
+
+/* LISTAS */
+.edit2{
+    font-size: 150%;
+    color: #87CEFA;
+}
+
+/* LISTAS */
+.edit3{
+    font-size: 150%;
+    color: #87CEFA;
+}
+
+
+/* CORES DO BOTÃO */
+.botao1,.botao2,.botao3,.botao4{
+ background-color: black;
+ 
+}
+
+/* SEÇÃO ALINHAMENTO DOS BOTÕES */
+.espaco{
+    width:550px;
+     color: rgb(2, 145, 145);
+     margin-left: 25%;
+     margin-top: 30px;
+     text-align: justify;
+}
+/* CENTRALIZAR TEXTO */
+.central{
+    margin-left: 10%;
+    justify-content: center;
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+
